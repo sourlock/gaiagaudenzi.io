@@ -25,6 +25,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+logo: "assets/images/bio-photo.png?raw=true" # your photo (or logo) here
 
 include:
   - _pages
