@@ -1,4 +1,7 @@
-
+---
+layout: single
+author_profile: true
+---
 ## Useful resources for wannabe Economists conducting Field Experiments
 
 Here are concentrated various pieces of information I gathered during my journey as an RA. I hope they can make your life easier when deciding whether an RAship is right for you!
